@@ -1,0 +1,96 @@
+.curve {
+    /* background: linear-gradient(135deg, #f46b45, #eea849); */
+    height: 100vh;
+    background-image: url('../../assets/svg/wave3.svg');
+}
+
+.txt_titulo_home {
+    color: #4D4F5C;
+    font-family: sans-serif;
+}
+  
+.login_container {
+    height: 100%;
+}
+  
+.bg_left {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
+.img_circle {
+    top: 268px;
+    left: 119px;
+    width: 325px;
+    height: 325px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border-radius: 50%;
+}
+
+.img {
+    background: transparent url('../../assets/svg/pet.svg') 0% 0% no-repeat padding-box;
+    top: 230px;
+    width: 208px;
+    height: 245px;
+    justify-content: center;
+    position: absolute;
+    left: 21%;
+}
+  
+.indicator {
+    width: 6px;
+    height: 30px;
+    background-color: #f44336;
+    border-radius: 2px;
+}
+
+.login_form {
+    width: 60%;
+}
+
+.form_control {
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.input_email, .input_password {
+    height: 48px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 2px 3px 4px #00000029;
+    opacity: 1;
+}
+
+.btn_primary:hover {
+    background-color: #2563eb;
+}
+
+/* Link Olvidar Contraseña */
+.forgot_password {
+    font-size: 0.85rem;
+    color: #6c757d;
+}
+
+.forgot_password:hover {
+    text-decoration: underline;
+}
+
+/* Link Registrarse */
+.register_link a {
+    text-decoration: none;
+    color: #3b82f6;
+}
+
+.register_link a:hover {
+text-decoration: underline;
+}
+
+.btn_iniciar_sesion {
+    border-radius: 38px !important;
+    box-shadow: 0px 3px 6px #2C1DAD29;
+    height: 55px;
+    width: 239px !important;
+    background: #4487FF;
+}

@@ -1,0 +1,9 @@
+<svg id="visual" viewBox="0 0 1800 1000" width="1800" height="1000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+    <rect x="0" y="0" width="1800" height="1000" fill="#FFFFFF"></rect>
+    <path 
+        d="M668 0L669 55.5C670 111 672 222 641 333.2C610 444.3 546 555.7 540 666.8C534 778 586 889 612 944.5L638 1000L0 1000L0 944.5C0 889 0 778 0 666.8C0 555.7 0 444.3 0 333.2C0 222 0 111 0 55.5L0 0Z" 
+        fill="#FF6752" 
+        stroke-linecap="round" 
+        stroke-linejoin="miter">
+    </path>
+</svg>
